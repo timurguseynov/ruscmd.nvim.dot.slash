@@ -59,7 +59,7 @@ local function setup(parameters)
     map('ь', 'm')
     map('б', ',')
     map('ю', '.')
-    map('.', '/')
+    -- map('.', '/')
 
     map('ё', '`')
 
